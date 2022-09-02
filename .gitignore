@@ -10,6 +10,8 @@ pubspec.lock
 analysis_options.yaml
 android/.gitignore
 ios/.gitignore
+.flutter-plugins
+.flutter-plugins-dependencies
 
 ios/Flutter
 test/
